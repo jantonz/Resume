@@ -1,15 +1,26 @@
-intro: "You can list your publications in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "Here you can find some of my publications."
 publications:
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title: Can white-rot fungi be a real wastewater treatment alternative for organic micropollutants removal? A review
+    authors: Josep Anton Mir-Tutusaus, Rim Baccar, Glòria Caminal, Montserrat Sarrà
+    conference: Water Research, In press, accepted manuscript, Available online 15 March 2018
   - paper:
-    title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    title: "Influence of process variables in a continuous treatment of non-sterile hospital wastewater by Trametes versicolor and novel method for inoculum production"
+    authors: Josep Anton Mir-Tutusaus, Glòria Caminal, Montserrat Sarrà
+    conference: "Journal of Environmental Management, Volume 212, 15 April 2018, Pages 415-423"
   - paper:
-    title: A syntax directed compiler for Algol 60
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    title: "Pharmaceuticals removal and microbial community assessment in a continuous fungal treatment of non-sterile real hospital wastewater after a coagulation-flocculation pretreatment"
+    authors: J.A. Mir-Tutusaus, E. Parladé, M. Llorca, M. Villagrasa, D. Barceló, S. Rodriguez-Mozaz, M. Martinez-Alonso, N. Gaju, G. Caminal, M. Sarrà
+    conference: "Water Research, Volume 116, 1 June 2017, Pages 65-75"
+  - paper:
+    title: "Continuous treatment of non-sterile hospital wastewater by Trametes versicolor: How to increase fungal viability by means of operational strategies and pretreatments"
+    authors: J.A. Mir-Tutusaus, M. Sarrà, G. Caminal
+    conference: "Journal of Hazardous Materials, Volume 318, 15 November 2016, Pages 561-570"
+  - paper:
+    title: "Degradation of selected agrochemicals by the white rot fungus Trametes versicolor"
+    authors: Josep Anton Mir-Tutusaus, Mario Masís-Mora, Cayo Corcellas, Ethel Eljarrat, Damià Barceló, Montserrat Sarrà, Glòria Caminal, Teresa Vicent, Carlos E. Rodríguez-Rodríguez
+    conference: "Science of The Total Environment, Volumes 500–501, 1 December 2014, Pages 235-242"
+  - paper:
+    title: "Physicochemical properties and starch digestibility of Scirpus grossus flour and starch"
+    authors: Chutima Lerdluksamee, Khongsak Srikaeo, Josep Anton Mir Tutusaus, Juan García Diéguez
+    conference: "Carbohydrate Polymers, Volume 97, Issue 2, 12 September 2013, Pages 482-488"

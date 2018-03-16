@@ -1,23 +1,17 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "Some of my (open-source) side-projects involve programming teaching."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: "[Code In] deeplearning.ai"
+    link: "https://jantonz.github.io/DeepLearning.ai"
+    tagline: "A website with notes and coding examples to help students make the
+              most of the Coursera Deep Learning Scpecialization."
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: IntroductionR
+    link: "https://jantonz.github.io/IntroductionR"
+    tagline: "A website used in my own courses to introduce some basic concepts
+              to the students."
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-  - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: "[Code In] Collective Intelligence"
+    link: "https://jantonz.github.io/CollectiveIntelligence"
+    tagline: "A Jekyll-powered site that helps following the book Programming
+              Collective Intellgence, by Toby Segaran."

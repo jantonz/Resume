@@ -1,8 +1,8 @@
 # Site Settings
-title: My Resume
-url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
-about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+title: CV Josep Anton Mir Tutusaus
+url: 'https://jantonz.github.io/Resume/'
+#baseurl: '/online-cv' #change it according to your repository name
+about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -10,32 +10,32 @@ about: True # set to False or comment line if you want to remove the "How to use
 #style: styles-3
 #style: styles-4
 #style: styles-5
-#style: styles-6
+style: styles-6
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+name: Josep Anton Mir Tutusaus
+tagline: Environmental Engineer, Data Scientist, Python & R developer, Deep Learning Ninja
+pic: profile0.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'Ph.D. in Environmental Science and Technology by training, although soon
+          I found myself concentrating on developing Machine Learning and Deep Learning
+          models. Lately, my focus is on exploring the application of Artificial
+          Intelligence to Environmental Sciences.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: jantonz@gmail.com
+#phone: 012 345 6789
+website: researchgate.net/profile/Josep_Anton_Mir_Tutusaus #do not add http://
+linkedin: josepantonmir
+github: jantonz
+#twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
-#education_in_main: True
+education_in_main: True
 
 # Tracker
-analytics: UA-83979019-1
+#analytics: UA-83979019-1
 
 # Build settings
 encoding: "utf-8"

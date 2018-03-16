@@ -1,9 +1,15 @@
 - language:
+  idiom: Catalan
+  level: Native
+- language:
   idiom: English
+  level: Proficient
+- language:
+  idiom: Spanish
   level: Native
 - language:
   idiom: French
-  level: Professional
+  level: Upper intermediate
 - language:
-  idiom: Spanish
-  level: Professional
+  idiom: German
+  level: Elementary

@@ -1,16 +1,21 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: PhD in Environmental Science and Technology
+  university: Autonomous University of Barcelona (UAB) & University of Wollongong (UOW)
+  time: 2014 - 2017
+  details: "Awarded summa cum laude for the thesis dissertation. Part of the
+            research was conducted in the University of Wollongong (Australia)
+            thanks to the PIF Scholarship received."
 - education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: MSc in Environmental Studies and Environmental Engineering
+  university: UAB
+  time: 2012 - 2013
+  details: "A research internship was awarded in the Chemical Engineering
+            Department of the Autonomous University of Barcelona."
+- education:
+  degree: BSc in Biotechnology
+  university: UAB, University of Thessaly & University of León
+  time: 2007 - 2012
+  details: "Recipient of FARO Scholarship to be a Research Assistant at Pibulsongkram
+            Rajabhat University (Thailand). Recipient of Erasmus Scholarship to complement
+            the studies at the University of Thessaly (Greece) and recipient of SENECA
+            Scholarship to supplement the education at the University of Leon (Spain)."
