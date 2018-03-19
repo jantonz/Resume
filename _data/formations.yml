@@ -1,0 +1,14 @@
+intro: "I have proudly finished the following courses and Coursera specializations."
+formations:
+  - formation:
+    title: Deep Learning Specialization
+    link: "https://www.deeplearning.ai/"
+    tagline: "Stanford University. All exercices were coded in Python."
+  - formation:
+    title: Machine Learning
+    link: "https://www.coursera.org/learn/machine-learning"
+    tagline: "Stanford University. All exercices were coded in Matlab or Octave."
+  - formation:
+    title: Data Science Specialization
+    link: "https://www.coursera.org/specializations/jhu-data-science"
+    tagline: "Johns Hopkins University. All exercices were coded in R."
