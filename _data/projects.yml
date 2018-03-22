@@ -15,3 +15,8 @@ projects:
     link: "https://jantonz.github.io/CollectiveIntelligence"
     tagline: "A Jekyll-powered site that helps following the book Programming
               Collective Intellgence, by Toby Segaran."
+  - project:
+    title: "Mentor in AuthorAID"
+    link: "http://www.authoraid.info/en/"
+    tagline: "Supporting Developing Country Researchers in Publishing Their
+              Work"

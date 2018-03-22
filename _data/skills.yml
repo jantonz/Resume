@@ -11,5 +11,8 @@
   name: Matlab & Octave
   level: 80%
 - skill:
+  name: AWS
+  level: 80%
+- skill:
   name: Keras with TensorFlow/Theano
   level: 95%
