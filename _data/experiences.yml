@@ -2,27 +2,26 @@
   role: Data Scientist
   time: 2018 - Present
   company: e-TIC Systems & yaencontre, Barcelona
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  details: "The role consisted of the design, planning, development and
+  deployment of Machine Learning (ML) and Deep Learning-based models. Projects
+  included object recognition, churn prediction, recommender systems design,
+  product ranking and algorithm design. Some ML-based decision support systems were
+  developed and implemented."
 - experience:
   role: Data Analyst
   time: 2017 - 2018
   company: lainteractiva.io, Barcelona
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: "lainteractiva.io is a creative engineering studio specialized in
+  Internet of Things (IoT), Machine-to-Machine (M2M) and Human-to-Machine (H2M)
+  interactions. The role included the processing, analysis and visualization of
+  sensor and H2M data."
 - experience:
   role: Doctoral Researcher
   time: 2014 - 2017
   company: UAB & UOW, Barcelona & Australia
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: "The role included the writing of a research project, the execution
+  of said project and the final thesis dissertation. Tasks included experiment
+  planning and execution, data analysis and life cyle assessment. The role
+  comprised the managing of several MSc students and the teaching of three
+  compulsory subjects in the Biotechnology BSc and Chemical Engineering BSc
+  degree. Several research articles were published as a result of the research."

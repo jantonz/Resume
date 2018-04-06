@@ -16,7 +16,12 @@ projects:
     tagline: "A Jekyll-powered site that helps following the book Programming
               Collective Intellgence, by Toby Segaran."
   - project:
-    title: "Mentor in AuthorAID"
-    link: "http://www.authoraid.info/en/"
-    tagline: "Supporting Developing Country Researchers in Publishing Their
-              Work"
+    title: "openLCA"
+    link: "https://openlca.org"
+    tagline: "An open source project for Life Cycle Assessment (LCA) and
+              sustainability assessment studies, of which I am a contributor"
+  # - project:
+  #   title: "Mentor in AuthorAID"
+  #   link: "http://www.authoraid.info/en/"
+  #   tagline: "Supporting Developing Country Researchers in Publishing Their
+  #             Work"

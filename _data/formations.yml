@@ -1,4 +1,4 @@
-intro: "I have proudly finished the following courses and Coursera specializations."
+intro: "I have proudly finished the following courses and specializations."
 formations:
   - formation:
     title: Deep Learning Specialization
@@ -12,3 +12,8 @@ formations:
     title: Data Science Specialization
     link: "https://www.coursera.org/specializations/jhu-data-science"
     tagline: "Johns Hopkins University. All exercices were coded in R."
+  - formation:
+    title: Life Cycle Assessment with SimaPro and GaBi
+    link: "https://www.coursera.org/specializations/jhu-data-science"
+    tagline: "A module in the Joint European Master in Environmental Studies
+              from the Autonomous University of Barcelona."
